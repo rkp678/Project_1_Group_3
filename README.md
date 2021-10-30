@@ -30,7 +30,7 @@
 #
 
 ##  Data and Research Questions:
-### Original ideas were refinded to be more achieveable based on the data obtained from OpenSea.  Data was broken apart into exploration and cleanup phase, then more analysis phases.
+### Original ideas were refined to be more achieveable based on the data obtained from OpenSea.  Data was broken apart into exploration and cleanup phase, then analysis phase.
 1. NFT Bid Trends (Rachel)
 2. Number of NFT Sales Per Day (Jinhyeong)
 1. Volume of Sales Per Day (TBD)
@@ -60,7 +60,7 @@ Other Ideas:
 
 ## Rough Breakdown of Tasks:
 ### Prior to next class (Tuesday 11/2):
-- Everyone work on their respective visualizations as indicated above.
+- Everyone work on their respective visualizations as indicated above and include in a consolidated jupyter lab file.
 
 #
 
