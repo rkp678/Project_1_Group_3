@@ -1,8 +1,6 @@
 # Project 1 - Group 3
 
-## Project Name - think of something clever!
-- Idea - My NFT is Worth More than your Car
-- Idea - Let's put the "fun" in Non-Fungible Tokens
+## Let's Put the "Fun" in Non-Fungible Tokens
 
 #
 
@@ -23,16 +21,31 @@
 
 #
 
-##  Draft Research Questions:
-### Get ideas down and refine these to be more achievable. Break apart into exploration and cleanup phase, then analysis phase.
-1. What are NFTs? (narrative section)
-2. What are the sales trends in NFTs the past four years? (Use this question to determine if NFTs are a good investment, use line chart)
-2.  Sales trends for top 20 projects (use line chart).
-3.  What chain are NFTs on and what is the volume on each? (Use bar chart)
-1. What are the value trends in Ethereum? (NFTs are purchased with ETH so it is important to track this - use line chart)
-2. What is the market cap of top five NFTs? (bar chart)
-1. Determine liquidity of this type of NFT - how often have they been traded?  How liquid are they? (Use this question to determine the saleability of the asset)
-2. Who are the most profitable NFT artists?  (Use to determine the most profitable artists to invest in)
+## Brief Background of NFTs (Narrative Section):
+- What are NFTs?
+- Examples of Recently Sold NFTs
+- Minting and Purchasing an NFT
+- The Rise of NFTs 
+
+#
+
+##  Data and Research Questions:
+### Original ideas were refinded to be more achieveable based on the data obtained from OpenSea.  Data was broken apart into exploration and cleanup phase, then more analysis phases.
+1. NFT Bid Trends (Rachel)
+2. Number of NFT Sales Per Day (Jinhyeong)
+1. Volume of Sales Per Day (TBD)
+2. Top 10 Bids (Sam)
+1. Total Buyers/Sellers (Andrew)
+
+
+Other Ideas:
+
+
+1. Market Cap of Top 5 NFT Projects
+2. Ethereum Price Forecasting
+1. What are the value trends in Ethereum? 
+2. Determine liquidity and transaction rates?
+2. Who are the most profitable NFT artists?
 1. What are the most valuable pieces?
 
 
@@ -46,12 +59,8 @@
 #
 
 ## Rough Breakdown of Tasks:
-### Prior to next class (Saturday 10/30):
-- Everyone think of a clever project name!
-- Andrew - Obtain data (make variables using data, parsing data, finding information we need for analysis.
-- Jinhyeong - Assist with obtaining data.
-- Sam - Research and prepare google slides/presentation prep.
-- Rachel - Research and prepare google slides/presentation prep.
+### Prior to next class (Tuesday 11/2):
+- Everyone work on their respective visualizations as indicated above.
 
 #
 
