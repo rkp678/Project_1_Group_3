@@ -46,7 +46,7 @@ The Rise of NFTs:
 #
 
 ##  Data and Research Questions:
-Based on our analysis of the data included in the OpenSea API, we refined our data visualizations to the following achievable results.  The data was broken apart into exploration, cleanup, and analysis phases as seen in the JupyterLab notebook.  Refer to the **Visualizations.ipynb** and **XXXXX.ipynb** files in GitHub for code details, and the **NFT Project 1 PowerPoint** for the full presentation (including narratives and visualizations).  Visualizations and conclusions included in the project are as follows:
+Based on our analysis of the data included in the OpenSea API, we refined our data visualizations to the following achievable results.  The data was broken apart into exploration, cleanup, and analysis phases as seen in the JupyterLab notebooks.  Refer to the **Visualizations.ipynb** and **XXXXX.ipynb** files in GitHub for code details, and the **NFT Presentation Dashboard** for the full presentation (including narratives and visualizations).  Visualizations and conclusions included in the project are as follows:
 1. NFT Bid Trends - add conclusion
 2. Number of NFT Sales Per Day - add conclusion
 1. Volume of Sales Per Day - add conclusion
@@ -59,7 +59,7 @@ Based on our analysis of the data included in the OpenSea API, we refined our da
 #
 
 ## Overall Dashboard:
-TO BE ADDED
+We combined all visualizations as well as narratives into a dashboard for our presentation. Please refer to the **NFT Presentation Dashboard** in GitHub for the document.
 
 #
 
@@ -71,7 +71,7 @@ We will be using data obtained from the OpenSea API and Ethereum API.
 #
 
 ## Rough Breakdown of Tasks Completed:
-- Narrative section in PowerPoint - Sam and Rachel
+- Narrative sections - Sam and Rachel
 - Research and Visualization #1 - Rachel
 - Research and Visualization #2 - Jinhyeong
 - Research and Visualization #3 - Jinhyeong
@@ -80,7 +80,8 @@ We will be using data obtained from the OpenSea API and Ethereum API.
 - Research and Visualization #6 - Andrew
 - Research and Visualization #7 - Sam IN PROCESS
 - Research and Visualization #8 - Andrew IN PROCESS
-- Research and Presentation and Readme preparation - Rachel
+- Dashboard - Rachel
+- Readme preparation - Rachel
 - Presenter -  TBD
 #
 
@@ -92,7 +93,7 @@ We requested API access on 10/28/21 from OpenSea.  Message request: "Requesting 
 ## Workpapers in GitHub
 Please refer to the following workpapers in GitHub:
 - This ReadMe file (Includes a summary of the project)
-- PowerPoint Presentation (From 11/6/21 Class Presentation)
+- Dashboard Presentation (From 11/6/21 Class Presentation)
 - XXXXX.ipynb file (Includes data exploration and cleanup)
 - Visualizations.ipynb file (Includes data analyses)
 - Project1 Spyder Code File (Includes the code we used in Spyder to drill down to data variables we wanted to use)
