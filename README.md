@@ -78,7 +78,7 @@ We will be using data obtained from the OpenSea API and Ethereum API.
 - Research and Visualization #4 - Andrew
 - Research and Visualization #5 - Sam
 - Research and Visualization #6 - Andrew
-- Research and Visualization #7 - Sam IN PROCESS
+- Research and Visualization #7 - Sam
 - Research and Visualization #8 - Andrew IN PROCESS
 - Dashboard - Rachel
 - Readme preparation - Rachel
