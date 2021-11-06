@@ -72,13 +72,13 @@ Based on our analysis of the data included in the OpenSea API, we refined our da
 3. Volume of Sales Per Day
     - This visual provided our group with volume of sales per day, rather than count of sales per day as shown in the prior visual. As seen in the graph, there are several timeframes with higher than normal sales volume, including November 2020, June 2021, August 2021, and September 2021.
 4. Number of Sales Per Token ID
-    - This visual provided our group with the top 10 most expensively priced NFT projects. As of 11/4/2021, the most expensive bids are between 569 to 79 (which varies per minute as data is updated). The constantly changing bid prices indicate these assets are not stable.
-5. Top 10 Bids
     - This visual provided our group with number of sales per token ID. As you can see by the visual above, most tokens sell around 2 times or less. However, there is one token that has sold more times than all others (5 times).
+5. Top 10 Bids
+    - This visual provided our group with the top 10 most expensively priced NFT projects. As of 11/4/2021, the most expensive bids are between 569 to 79 (which varies per minute as data is updated). The constantly changing bid prices indicate these assets are not stable.
 6. Total Buyers/Sellers
     - This visual provided our group with the total amount of NFT Buyers and Sellers. As you can see, there are currently more buyers of NFTs than there are sellers, making it a sellers market.
 7. Top 5 NFT Projects by Market Cap
-    - This visual provided our group with the top 5 NFT projects by Market Cap. CryptoPunks far exceeds all other projects, at almost 1200000 ETH.
+    - This visual provided our group with the top 5 NFT projects by Market Cap.  We used another library (Bokeh) to create the visual. CryptoPunks far exceeds all other projects, at almost 1,200,000 ETH.
 
 #
 
